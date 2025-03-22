@@ -32,9 +32,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "solo leveling",
+    title: "SITE SOBRE SOLOLEVELING",
     description: "Site sobreconteúdos",
-    images: ["https://seusite.com/loudinhos_news.png"],
+    images: ["https://i.imgur.com/ZDBLpXf.png"],
   },
 };
 
