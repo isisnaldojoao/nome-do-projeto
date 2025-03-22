@@ -13,27 +13,27 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LOUDinhos",
-  description: "Site sobre a LOUD e seus conteúdos",
-  keywords: ["loud", "loudgg", "loudlol", "loudvalorant"],
+  title: "solo leveling",
+  description: "Site sobreconteúdos",
+  keywords: [],
   openGraph: {
-    title: "LOUDinhos",
-    description: "Site sobre a LOUD e seus conteúdos",
+    title: "SOLO LEVELING",
+    description: "Site sobreconteúdos",
     type: "website",
     url: "https://seusite.com",
     images: [
       {
-        url: "https://seusite.com/loudinhos_news.png",
+        url: "https://i.imgur.com/ZDBLpXf.png",
         width: 1200,
         height: 630,
-        alt: "Imagem representativa do LOUDinhos",
+        alt: "Imagem representativa do",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "LOUDinhos",
-    description: "Site sobre a LOUD e seus conteúdos",
+    title: "solo leveling",
+    description: "Site sobreconteúdos",
     images: ["https://seusite.com/loudinhos_news.png"],
   },
 };
